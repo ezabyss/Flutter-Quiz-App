@@ -1,16 +1,8 @@
-# quizzler
+# QuizApp
 
 A Quiz app using Flutter/Dart.
+Simple Quiz App That has 10 Question, User Have to answer whether it's true or false
 
-## Getting Started
+![finished-quiz-screenshot](https://github.com/user-attachments/assets/0f303fbf-84b0-4851-ba74-2b7c4e5ce5cc)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![quiz-page-screenshot](https://github.com/user-attachments/assets/0d104241-2b93-48f8-8fdd-8ffff7707955)
